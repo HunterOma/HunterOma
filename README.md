@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HunterOma
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on maybe web projects someday?
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: Through Github
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
